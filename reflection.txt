@@ -1,0 +1,9 @@
+Static visualizations are easy to create and good for sharing simple insights, 
+but they don’t allow user interaction. In contrast, interactive visualizations 
+let users explore data in more depth by zooming, filtering, and using tools like 
+dropdowns or sliders. Dashboards are helpful because they show real-time updates 
+and make it easier to find key information quickly. They allow users to interact 
+with the data and discover custom insights without needing to write code. Tools 
+like Plotly and Dash improve data communication in professional settings by turning
+complex data into clear, interactive visuals that are easy to understand and use in
+meetings or reports.
